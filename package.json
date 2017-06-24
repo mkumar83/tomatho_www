@@ -1,0 +1,34 @@
+{
+  "name": "tomatho",
+  "version": "0.0.1",
+  "description": "A Math Fun with Tomatos as tomatho.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkumar83/tomatho_www.git"
+  },
+  "keywords": [
+    "math",
+    "tomato",
+    "tomatho",
+    "fun",
+    "simple",
+    "game"
+  ],
+  "author": "Muthukumar Chinnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkumar83/tomatho_www/issues"
+  },
+  "homepage": "https://github.com/mkumar83/tomatho_www#readme",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-uglify": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest"
+  }
+}
